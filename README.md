@@ -10,20 +10,21 @@ Proyek Sederhana ini disusun oleh kelompok 6 yang terdiri dari;
 ### Pembagian Tugas
 
 Agar proyek sederhana ini berjalan lancar, kami melakukan pembagian tugas berdasarkan keahlian masing-masing anggota
-- Ammar bertugas untuk mengatur alur PubSub pada Kodular agar bisa mengontrol alat melalui ponsel
-- Zhorif merangkai alat agar berfungsi dengan semestinya
-- Fajar membuat desain tampilan aplikasi kodular mobile
-- Ghazali mengoding agar data yang diterima sensor air dan PubSub pada ESP32 agar bisa berkomunikasi dengan MQTT, sehingga sesuai dengan skenario proyek.
+- Ammar bertugas untuk memastikan proyek sesuai dengan konsep dan menyusun laporan proyek akhir
+- Zhorif membuat UI/UX kodular mobile dan merangkai alat agar berfungsi dengan semestinya dan
+- Fajar membuat koneksi dengan blok kode agar client saling terhubung
+- Ghazali mengoding agar alur PubSub agar clients bisa saling terhubung melalui broker, sehingga sesuai dengan skenario proyek.
 ---
 ### Komponen
 
 Komponen yang digunakan pada proyek ini diantaranya;
-1. 1 Esp32-Supermini-C3
-2. 1 Sensor Water Level
-3. 1 Servo
+1. 1 Esp32-WROOM-32D
+2. 1 Sensor PIR
+3. 1 Sensor Ultrasonic
 4. 1 Buzzer
-5. 1 Kabel USB to C
-6. 8 Kabel jumper
+5. 1 Led
+6. 1 Kabel USB to C
+7. 11 Kabel jumper
 ---
 ### Board Schematics
 

@@ -23,8 +23,6 @@ Komponen yang digunakan pada proyek ini diantaranya;
 3. 1 Sensor Ultrasonic
 4. 1 Buzzer
 5. 1 Led
-6. 1 Kabel USB to C
-7. 11 Kabel jumper
 ---
 ### Board Schematics
 

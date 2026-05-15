@@ -11,7 +11,7 @@ Proyek Sederhana ini disusun oleh kelompok 6 yang terdiri dari;
 
 Agar proyek sederhana ini berjalan lancar, kami melakukan pembagian tugas berdasarkan keahlian masing-masing anggota
 - Ammar bertugas untuk memastikan proyek sesuai dengan konsep dan menyusun laporan proyek akhir
-- Zhorif membuat UI/UX kodular mobile dan merangkai alat agar berfungsi dengan semestinya dan
+- Zhorif membuat UI/UX kodular mobile dan merangkai alat agar berfungsi dengan semestinya
 - Fajar membuat koneksi dengan blok kode agar client saling terhubung
 - Ghazali mengoding agar alur PubSub agar clients bisa saling terhubung melalui broker, sehingga sesuai dengan skenario proyek.
 ---

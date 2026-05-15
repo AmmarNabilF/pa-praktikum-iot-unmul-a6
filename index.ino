@@ -35,7 +35,7 @@ unsigned long lastBotRun = 0;
 int botReqDelay = 800;
 
 unsigned long lastMotionTime = 0;   // Kapan terakhir kali gerakan terdeteksi
-bool motionActive = false;          // Apakah sedang dalam periode "nyala pasca gerakan"
+bool motionActive = false;          // Apakah sedang dalam periode "nyala habis ada gerakan"
 
 void setup() {
   Serial.begin(115200);

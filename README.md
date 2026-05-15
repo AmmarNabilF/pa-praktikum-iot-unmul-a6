@@ -13,7 +13,7 @@ Agar proyek sederhana ini berjalan lancar, kami melakukan pembagian tugas berdas
 - Ammar bertugas untuk memastikan proyek sesuai dengan konsep dan menyusun laporan proyek akhir
 - Zhorif membuat UI/UX kodular mobile dan merangkai alat agar berfungsi dengan semestinya
 - Fajar membuat koneksi dengan blok kode agar client saling terhubung
-- Ghazali mengoding agar alur PubSub agar clients bisa saling terhubung melalui broker, sehingga sesuai dengan skenario proyek.
+- Ghazali mengoding agar alur PubSub yang membuat client bisa saling terhubung melalui broker, sehingga sesuai dengan skenario proyek.
 ---
 ### Komponen
 

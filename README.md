@@ -29,5 +29,5 @@ Komponen yang digunakan pada proyek ini diantaranya;
 ### Board Schematics
 
 <p align="center">
-  <img src="posttest3-board-schemes.jpeg" alt="skema papan" width="500" />
+  <img src="proyekakhir-board-schemes.png" alt="skema papan" width="500" />
 </p>
